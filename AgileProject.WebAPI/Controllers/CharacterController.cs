@@ -9,7 +9,8 @@ namespace AgileProject.WebAPI.Controllers
 {
     public class CharacterController : ApiController
     {
-        private readonly CharacterDbContext _context = new CharacterDbContext();
+       
+        
 
 
     }
